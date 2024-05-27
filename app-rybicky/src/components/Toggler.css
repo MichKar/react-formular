@@ -1,0 +1,12 @@
+.togglers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.togglers button {
+  padding: 10px 25px;
+  width: 250px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
